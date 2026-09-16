@@ -27,6 +27,8 @@
 * Sales by Category
 * Sales by Location
 
+![Получившийся дашбоард](Dashboard.JPG)
+
 ### 🔍 Основные результаты
 
 **Категории и прибыльность**
